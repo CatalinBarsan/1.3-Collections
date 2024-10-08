@@ -1,9 +1,10 @@
 package nivel01.ejercicio01.main.java.com.modules.month;
 import java.util.ArrayList;
+import java.util.List;
 
 public class ListMonth {
 
-    ArrayList<Month> months;
+    private ArrayList<Month> months;
 
     public ListMonth() {
         months = new ArrayList();
@@ -14,7 +15,7 @@ public class ListMonth {
         months.add(position,newMonth);
     }
 
-    public ArrayList<Month> getMonth() {
+    public List<Month> getMonth() {
         return months;
     }
 
