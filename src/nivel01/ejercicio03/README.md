@@ -16,7 +16,7 @@ The task involves creating a Java application using collections. It includes thr
 - **Exercise 1**: Create an application to read a CSV file of persons, allowing sorting by different attributes.
 
 ## 💻 Technologies Used
-- Java
+- Java.
 - IntelliJ IDEA
 - JDK 22
 
